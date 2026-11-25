@@ -7,6 +7,14 @@ Arduino C++ firmware; it does not run this Node.js application.
 Google Calendar → Node.js /next → Wi-Fi → ESP32 → SSD1306
 ```
 
+## Display preview
+
+![SSD1306 interface preview showing NEXT with a live countdown and NOW with time remaining and an event progress bar](docs/interface-preview.png)
+
+Illustrative preview of the 128×64 interface: upcoming and active event states,
+two-line titles, local event times, and a connection indicator. Longer titles
+automatically advance through two-line pages.
+
 ## 1. Start the home server
 
 Install dependencies and create your local configuration from the project root:
