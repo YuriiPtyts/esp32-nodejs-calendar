@@ -1,0 +1,4 @@
+.env
+node_modules
+secrets.h
+.DS_Store
