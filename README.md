@@ -15,6 +15,12 @@ Illustrative preview of the 128×64 interface: upcoming and active event states,
 two-line titles, local event times, and a connection indicator. Longer titles
 automatically advance through two-line pages.
 
+### On real hardware
+
+<img src="docs/hardware-photo.jpg" alt="Working SSD1306 calendar display showing the test2 event, a live countdown, and the 17:00–18:00 time range" width="560">
+
+The running display on an SSD1306 module, photographed from the working setup.
+
 ## 1. Start the home server
 
 Install dependencies and create your local configuration from the project root:
