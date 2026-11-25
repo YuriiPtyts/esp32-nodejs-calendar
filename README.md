@@ -9,7 +9,7 @@ Google Calendar → Node.js /next → Wi-Fi → ESP32 → SSD1306
 
 ## Display preview
 
-![SSD1306 interface preview showing NEXT with a live countdown and NOW with time remaining and an event progress bar](docs/interface-preview.jpg)
+![SSD1306 interface preview showing NEXT with a live countdown and NOW with time remaining and an event progress bar](docs/interface-preview.png)
 
 Illustrative preview of the 128×64 interface: upcoming and active event states,
 two-line titles, local event times, and a connection indicator. Longer titles
